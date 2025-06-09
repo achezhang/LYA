@@ -4,7 +4,6 @@
  	<li style="list-style-type: none;">
 <ul>
  	<li style="text-align: left;"><strong><a href="https://lya.sbb.zone:8890/index.php/%e4%bd%8e%e8%b0%83%e4%bd%bf%e7%94%a8%e7%a7%81%e6%9c%89%e7%9b%98/">点我！李英爱影视剧下载</a></strong></li>
- 	<li><strong><a href="https://lya.sbb.zone:8890/index.php/%e6%89%93%e8%b5%8f%e6%88%91/">打赏本站</a>(主要用于覆盖 网盘/微博会员/B站会员 的成本)</strong></li>
 </ul>
 </li>
 </ul>
