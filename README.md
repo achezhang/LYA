@@ -37,7 +37,7 @@
  	<li><a href="https://movie.daum.net/person/main?personId=563">daum电影-李英爱 </a></li>
 </ul>
 &nbsp;</li>
- 	<li style="list-style-type: none;"><strong>李英爱粉丝群</strong>（本页面下的动态失效、页面错误、内容有误、建议添加动态等都可以加群反馈，只是闲聊的也可以加群）
+ 	<li style="list-style-type: none;"><strong>李英爱粉丝群</strong>（求李英爱相关影视剧资源、交流分享等可以加群）
 <ul>
  	<li><a href="http://t.cn/AiHJwHKv">微博群，李英爱粉丝1群</a></li>
  	<li><a href="https://shang.qq.com/wpa/qunwpa?idkey=9f97d83971bece998d8f73581ece4b1eb9b1d944ca60e969a6dc02a3499c5c4a">QQ群，847088042，李英爱粉丝1群</a></li>
