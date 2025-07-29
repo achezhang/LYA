@@ -1,14 +1,5 @@
 <strong>李英爱的时光线</strong>
 
-本站推荐使用PC端edge等web浏览器访问以获得最佳排版效果及功能实现体验
-
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li style="text-align: left;"><strong><a href="">点我！李英爱影视剧下载</a>（动态公网IP被江苏电信下了，等后期用飞牛OS的文件对外访问恢复上线，稍安勿躁）</strong></li>
-</ul>
-</li>
-</ul>
 <iframe src="//player.bilibili.com/player.html?aid=67016184&amp;bvid=BV1p4411C7A2&amp;cid=116207366&amp;page=1" width="100%" height="400" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"> </iframe>
 
 <strong>李英爱官方账号</strong>
